@@ -776,12 +776,15 @@ body {
         justify-content: center;
         text-align: center;
         padding: 20px 5%;
+        max-width: 100%;
+        /* height: auto; */
 
     }
 
     .footer-column a {
         display: flex;
         flex-wrap: wrap;
+    
         
     }
 
